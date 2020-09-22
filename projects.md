@@ -1,0 +1,1 @@
+Project 1 tasked us to use the terminal command lines to create, add and edit git hub repositories and files. I collaborated with Team 1 - Reuben Perez, Alex Ramiller and Pei-Ming Chen. We then utilized those same skills to create a GitHub Page. 
