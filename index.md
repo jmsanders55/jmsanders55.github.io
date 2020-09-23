@@ -4,4 +4,4 @@ Jasmine Sanders is a Sociology PhD student at the University of California, Berk
 
 A native of Mobile, Alabama, Jasmine is an _**avid**_ sports fan and a wine enthusiast :) 
 
-![](Jasmine M. Sanders.JPG)
+![](JasmineM.Sanders.JPG)
